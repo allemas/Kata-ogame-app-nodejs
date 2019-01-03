@@ -32,10 +32,10 @@ The objective is become familiar with vanilla NodeJS and use npm repositories, t
    - [Understanding module.exports and exports in Node.js](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
 
 
-
 ## License
 MIT. Copyright (c) Allemand Sébastien
 
 # Contact me
-- sebastienallemand.as@gmail.com
-- https://www.linkedin.com/in/sebastien-allemand-56349026/
+- [sebastienallemand.as@gmail.com](mailto:sebastienallemand.as@gmail.com)
+- [linkedin](https://www.linkedin.com/in/sebastien-allemand-56349026/)
+- [twitter](http://twitter.com/allema_s)
