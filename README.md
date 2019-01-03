@@ -36,6 +36,6 @@ The objective is become familiar with vanilla NodeJS and use npm repositories, t
 MIT. Copyright (c) Allemand Sébastien
 
 # Contact me
-- [sebastienallemand.as@gmail.com](mailto:sebastienallemand.as@gmail.com)
-- [linkedin](https://www.linkedin.com/in/sebastien-allemand-56349026/)
-- [twitter](http://twitter.com/allema_s)
+- [Email sebastienallemand.as@gmail.com](mailto:sebastienallemand.as@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/sebastien-allemand-56349026/)
+- [Twitter](http://twitter.com/allema_s)
