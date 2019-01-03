@@ -6,7 +6,7 @@ This Repository is a programming kata.
 The objective is become familiar with vanilla NodeJS and use npm repositories, to devevelop a custom application.
 
 # Todo
-- Tests
+- Tests 😅 🔜
 - NodeJS base class structure and paterns. ✅
 - HTTP / Request : Call API ✅
 - Parse and use JSON Object ✅
@@ -22,8 +22,8 @@ The objective is become familiar with vanilla NodeJS and use npm repositories, t
 - See how works module and exports ✅
 - Transform XML to Json string ✅
 - Transform string to JSON Object ✅
-- Write data into MySql
-- Write data into mongod
+- add data into MySql
+- add data into mongod
 
 # Ressources 📖
 - Understanding module.export and require
